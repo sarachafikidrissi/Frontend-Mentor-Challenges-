@@ -75,7 +75,7 @@ In the future i want to focus on how to use flexbox or css grid and master them 
 ### Useful resources
 
 - [stack overflow](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) - This helped me add a screenshot to my md file
-- [Center an element](https://bootcamp.uxdesign.cc/5-simple-ways-to-center-a-div-horizontally-and-vertically-in-css-23bbaa5f9f52#:~:text=In%20conclusion%2C%20centering%20a%20div)
+- [Center an element](https://bootcamp.uxdesign.cc/5-simple-ways-to-center-a-div-horizontally-and-vertically-in-css-23bbaa5f9f52#:~:text=In%20conclusion%2C%20centering%20a%20div) - I leanrt from this how to center a div using diffrent ways.
 
 ## Author
 
