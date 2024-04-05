@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sarachafikidrissi/Blog-preview-card)
-- Live Site URL: [Add live site URL here](https://sarachafikidrissi.github.io/Blog-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/sarachafikidrissi/QR-code-component.git)
+- Live Site URL: [Add live site URL here](https://sarachafikidrissi.github.io/QR-code-component/)
 
 ## My process
 
