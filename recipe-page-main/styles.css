@@ -100,12 +100,15 @@ table {
 
 td{
     padding: 15px;
-    border-bottom: 1px hsl(0, 0%, 81%) solid ;
+    /* border-bottom: 1px hsl(0, 0%, 81%) solid ; */
     
 }
-tr:last-child td {
-    border-bottom: none;
+tr:not(:last-child) {
+    border-bottom: 1px solid hsl(0, 0%, 81%);
 }
+/* tr:last-child td {
+    border-bottom: none;
+} */
 
 .left {
     font-weight: 500;
